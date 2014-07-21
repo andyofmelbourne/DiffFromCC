@@ -1,5 +1,11 @@
 
-#########################################################
+#------------------------------------------------------------------------------------------
+# Authors: Andrew Mortin, Andrew Morgan
+# Paper reference: 
+#   A. Martin, A. Morgan, T. Ekeberg, N. Loh, F. Maia, F. Wang, J. Spence, and H. Chapman, 
+#   "The extraction of single-particle diffraction patterns from a multiple-particle 
+#   diffraction pattern," Opt. Express  21, 15102-15112 (2013).
+#
 #
 # A.V. Martin 2012
 # 	- Display class for simple viewing of images
@@ -26,7 +32,7 @@
 #          - Add options on where the windows appear
 #          - Add more comments to this file
 #          - Allow titles, widths and positions to be updated
-#########################################################
+#------------------------------------------------------------------------------------------
 
 
 import Tkinter as tk
