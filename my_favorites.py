@@ -1,4 +1,10 @@
-
+#------------------------------------------------------------------------------------------
+# Authors: Andrew Mortin, Andrew Morgan
+# Paper reference: 
+#   A. Martin, A. Morgan, T. Ekeberg, N. Loh, F. Maia, F. Wang, J. Spence, and H. Chapman, 
+#   "The extraction of single-particle diffraction patterns from a multiple-particle 
+#   diffraction pattern," Opt. Express  21, 15102-15112 (2013).
+#------------------------------------------------------------------------------------------
 ## my favorate functions just to simplify life
 
 #from numpy import outer,roll,arange,zeros,ones,exp,sqrt,where
