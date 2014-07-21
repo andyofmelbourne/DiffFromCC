@@ -1,11 +1,19 @@
-
-
-#########################################################
+#------------------------------------------------------------------------------------------
+# Authors: Andrew Mortin, Andrew Morgan
+# Paper reference: 
+#   A. Martin, A. Morgan, T. Ekeberg, N. Loh, F. Maia, F. Wang, J. Spence, and H. Chapman, 
+#   "The extraction of single-particle diffraction patterns from a multiple-particle 
+#   diffraction pattern," Opt. Express  21, 15102-15112 (2013).
+#
 # Functions originally from
 # CrossTermsMod.py by A. Morgan 09/2011
 # 
 # is imported by crossTermsTools.py
 # A. Martin 10/2011 
+#------------------------------------------------------------------------------------------
+
+#########################################################
+
 #########################################################
 
 import numpy as np
